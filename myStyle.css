@@ -1,0 +1,36 @@
+#container {
+	width:auto;
+}
+
+#categories {
+	display: inline-block;
+	width: 28%;
+	float: left;
+}
+
+#currentYear {
+	display: inline-block;
+	width: 18%;
+	float: left;
+}
+
+#previousYear {
+	display: inline-block;
+	width: 18%;
+	float: left;
+}
+
+#diff {
+	display: inline-block;
+	width:18%;
+	float: left;
+}
+
+#percentDiff {
+	display: inline-block;
+	width:18%;
+}
+
+#nysasboBlue {
+	color: #0054a4;
+}
